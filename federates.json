@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Alejandro",
+    "surnameOne": "González",
+    "surnameTwo": "Pérez",
+    "federatedNumber": "CM97518225",
+    "handicap": 15.3
+  },
+  {
+    "name": "María",
+    "surnameOne": "Sánchez",
+    "surnameTwo": "López",
+    "federatedNumber": "CM39508077",
+    "handicap": 8.7
+  },
+  {
+    "name": "Carlos",
+    "surnameOne": "García",
+    "surnameTwo": "Fernández",
+    "federatedNumber": "CM69781916",
+    "handicap": 20.1
+  },
+  {
+    "name": "Laura",
+    "surnameOne": "Martínez",
+    "surnameTwo": "Rodríguez",
+    "federatedNumber": "CM82744088",
+    "handicap": 12.5
+  },
+  {
+    "name": "Javier",
+    "surnameOne": "Hernández",
+    "surnameTwo": "Torres",
+    "federatedNumber": "CM42408330",
+    "handicap": 28.9
+  },
+  {
+    "name": "Ana",
+    "surnameOne": "López",
+    "surnameTwo": "García",
+    "federatedNumber": "CM12345678",
+    "handicap": 3.2
+  },
+  {
+    "name": "Pablo",
+    "surnameOne": "Fernández",
+    "surnameTwo": "Martínez",
+    "federatedNumber": "CM87654321",
+    "handicap": 17.6
+  },
+  {
+    "name": "Sofía",
+    "surnameOne": "Gómez",
+    "surnameTwo": "Rodríguez",
+    "federatedNumber": "CM56789012",
+    "handicap": 9.8
+  },
+  {
+    "name": "Diego",
+    "surnameOne": "Torres",
+    "surnameTwo": "Sánchez",
+    "federatedNumber": "CM90123456",
+    "handicap": 22.4
+  },
+  {
+    "name": "Elena",
+    "surnameOne": "Gutiérrez",
+    "surnameTwo": "López",
+    "federatedNumber": "CM65432109",
+    "handicap": 6.1
+  },
+  {
+    "name": "Miguel",
+    "surnameOne": "Fernández",
+    "surnameTwo": "García",
+    "federatedNumber": "CM23456789",
+    "handicap": 14.2
+  },
+  {
+    "name": "Isabella",
+    "surnameOne": "López",
+    "surnameTwo": "Torres",
+    "federatedNumber": "CM67890123",
+    "handicap": 19.7
+  },
+  {
+    "name": "Hugo",
+    "surnameOne": "González",
+    "surnameTwo": "Soto",
+    "federatedNumber": "CM01234567",
+    "handicap": 5.4
+  },
+  {
+    "name": "Valentina",
+    "surnameOne": "Morales",
+    "surnameTwo": "Herrera",
+    "federatedNumber": "CM12345678",
+    "handicap": 11.9
+  },
+  {
+    "name": "Gabriel",
+    "surnameOne": "Sánchez",
+    "surnameTwo": "Martínez",
+    "federatedNumber": "CM87654321",
+    "handicap": 23.8
+  },
+  {
+    "name": "Sofía",
+    "surnameOne": "Gómez",
+    "surnameTwo": "Ramírez",
+    "federatedNumber": "CM56789012",
+    "handicap": 7.6
+  },
+  {
+    "name": "Daniel",
+    "surnameOne": "Hernández",
+    "surnameTwo": "Fernández",
+    "federatedNumber": "CM90123456",
+    "handicap": 13.5
+  },
+  {
+    "name": "Lucía",
+    "surnameOne": "Torres",
+    "surnameTwo": "García",
+    "federatedNumber": "CM65432109",
+    "handicap": 27.2
+  },
+  {
+    "name": "Martín",
+    "surnameOne": "Ortega",
+    "surnameTwo": "Jiménez",
+    "federatedNumber": "CM34567890",
+    "handicap": 10.0
+  },
+  {
+    "name": "Valeria",
+    "surnameOne": "Morales",
+    "surnameTwo": "Gutiérrez",
+    "federatedNumber": "CM98765432",
+    "handicap": 18.3
+  },
+  {
+    "name": "Sebastián",
+    "surnameOne": "López",
+    "surnameTwo": "Fernández",
+    "federatedNumber": "CM23456789",
+    "handicap": 8.2
+  },
+  {
+    "name": "María",
+    "surnameOne": "Ramírez",
+    "surnameTwo": "Soto",
+    "federatedNumber": "CM67890123",
+    "handicap": 16.7
+  },
+  {
+    "name": "Emilia",
+    "surnameOne": "Sánchez",
+    "surnameTwo": "García",
+    "federatedNumber": "CM01234567",
+    "handicap": 4.3
+  },
+  {
+    "name": "Matías",
+    "surnameOne": "González",
+    "surnameTwo": "Torres",
+    "federatedNumber": "CM12345678",
+    "handicap": 21.5
+  },
+  {
+    "name": "Emma",
+    "surnameOne": "Herrera",
+    "surnameTwo": "Martínez",
+    "federatedNumber": "CM87654321",
+    "handicap": 9.1
+  },
+  {
+    "name": "Joaquín",
+    "surnameOne": "García",
+    "surnameTwo": "Ramírez",
+    "federatedNumber": "CM56789012",
+    "handicap": 14.9
+  }
+]
